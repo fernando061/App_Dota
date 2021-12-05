@@ -6,7 +6,7 @@
 <p>Es ta aplicacion se desarrollo con el fin de poder visualizar los heroes de dota y vender items</p>
   
 ---
-# Instrucciones
+Hola! 👋🏻 Las librerias usadas en este proyecto y servicios consumidos son:
 
 1. Para tener el proyecto debes descargarte el repositorio mediante el siguiente comando:
 
