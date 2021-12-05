@@ -7,12 +7,7 @@
   
 ---
 
-Hola! 👋🏻 Las librerias usadas en este proyecto y servicios consumidos son:
-
-- Retrofit2: Para el consumo de los servicios.
-- Glide: Para la carga de imagenes.
-- MockApi: MockAPI es una herramienta simple que  permite simular fácilmente API y generar datos personalizados. Se utilizo para el registro de usuario.
-- OpenDota API: Es una pagina que nos provee informacion sobre el videojuego el cual consumimos para mostrar los heroes con sus respectivos nombres.
+a
 
 # Instrucciones
 
