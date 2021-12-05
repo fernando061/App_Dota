@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Store Dota</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_password">Password must contain al least 6 characters.</string>
+    <string name="Heroe_title">Name</string>
+    <string name="product_description">Description Text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
